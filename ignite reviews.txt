@@ -1,3 +1,5 @@
+happy to see you guys there....
+
 Testing the Smart Meters feedback to save Energy
 
 The proposed idea is surely not according to the CIF priority themes. The theme that this project is aiming is "improving energy efficiency through community energy management" under smart energy theme line. However, the methodology proposed (actually inside the "Review of State of the Art:" section is not according to the actual aim of this theme. The proposed idea is to purchase totally new smart meters, install them in University/academic premises and then literally by "PLEADGING THE PEOPLE" and by just informing the energy consumption status to each university by a monthly consumption report, and believing that this will reduce the energy consumption. To me, the proposed project does not have any relation to the actual aim of the theme. No actual technical work proposed, neither any scientific task to achieve the smart energy theme line. 
